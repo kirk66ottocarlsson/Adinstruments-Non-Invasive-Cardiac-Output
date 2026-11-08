@@ -180,4 +180,4 @@ This repository serves as the official landing page for ADInstruments Non-Invasi
 **Get the most recent version of ADInstruments Non-Invasive Cardiac Output today!**
 
 ---
-**Last updated:** 2026-11-07 23:29:19 UTC
+**Last updated:** 2026-11-08 04:58:42 UTC
